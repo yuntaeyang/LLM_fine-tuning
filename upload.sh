@@ -13,7 +13,7 @@ ml purge
 ml load cuda/11.0
  
 # 활성화된 환경에서 코드 실행.
-huggingface-cli login --token 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
+huggingface-cli login --token 
 python model_upload.py
 
  
